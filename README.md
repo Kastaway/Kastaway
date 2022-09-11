@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kastaway</h1>
 <h3 align="center">A student of Electrical and Computer Engineering</h3>
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kastaway" alt="kastaway" /></a> </p>
 
